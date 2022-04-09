@@ -1,1 +1,1 @@
-# gnuhack
+Infos: https://gnuhack.savegamers.de
